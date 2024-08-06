@@ -1,13 +1,4 @@
 <resources>
-    <string name="app_name">Photo Info</string>
-    <string name="title">Title</string>
-    <string name="description">Description</string>
-    <string name="previous">Previous</string>
-    <string name="next">Next</string>
-    <string name="circle">Circle</string>
-    <string name="circleDescription">A big green circle</string>
-    <string name="triangle">Triangle</string>
-    <string name="triangleDescription">A red triangle</string>
-    <string name="rectangle">Rectangle</string>
-    <string name="rectangleDescription">A blue rectangle</string>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
 </resources>

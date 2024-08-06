@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Photo Info"
+rootProject.name = "Dice Roller"
 include(":app")
  

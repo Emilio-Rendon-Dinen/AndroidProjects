@@ -1,4 +1,4 @@
-package com.example.photoinfo.ui.theme
+package com.example.diceroller.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -38,7 +38,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun PhotoInfoTheme(
+fun DiceRollerTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

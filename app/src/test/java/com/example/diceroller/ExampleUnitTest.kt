@@ -1,4 +1,4 @@
-package com.example.photoinfo
+package com.example.diceroller
 
 import org.junit.Test
 
